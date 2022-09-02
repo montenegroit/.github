@@ -1,12 +1,18 @@
-## Hi there 👋
+## Добро долши
 
-<!--
+[![](https://badges.aleen42.com/src/telegram.svg)](https://t.me/montenergo_it)
+[![](https://img.shields.io/github/stars/montenegroit?style=social)]()
+[![](https://badges.aleen42.com/src/buymeacoffee.svg)](https://www.buymeacoffee.com/montenegroit)
 
-**Here are some ideas to get you started:**
+Montenegro IT - Это большое ИТ коммунити в Черногории, которое самообразавалось в далеком 2019 году.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![](https://img.shields.io/youtube/channel/subscribers/UCdpRn1SqfqHDFJIrhZb9lsw?style=social)](https://www.youtube.com/channel/UCdpRn1SqfqHDFJIrhZb9lsw)
+[![](https://img.shields.io/youtube/channel/views/UCdpRn1SqfqHDFJIrhZb9lsw?style=social)](https://www.youtube.com/channel/UCdpRn1SqfqHDFJIrhZb9lsw)
+
+### Проекты:
+  - Startup Factory Montenegro https://digitalmonte.notion.site/Startup-Factory-b14d4371b4854a989bb104df47e9a8e8
+  - Чат по вопросам ВНЖ/Налогов/Фирм https://t.me/montenegro_porez
+  - Чат-бот для поиска информации о специалистах и клиниках Черногории. https://t.me/MontenegroDoctorsBot
+  - Канал с евентами https://t.me/montenegro_it_events
+  - Канал с вакансиями  https://t.me/montenegro_it_job
+ 

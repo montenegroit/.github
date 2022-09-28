@@ -1,4 +1,4 @@
-## Добро долши
+## Добро дошли
 
 [![](https://badges.aleen42.com/src/telegram.svg)](https://t.me/montenergo_it)
 [![](https://img.shields.io/github/stars/montenegroit?style=social)]()

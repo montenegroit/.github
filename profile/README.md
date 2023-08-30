@@ -11,7 +11,6 @@ Montenegro IT - This is a large IT community in Montenegro, which has been self-
 
  
 ### Projects:
-  - Startup Factory Montenegro https://digitalmonte.notion.site/Startup-Factory-b14d4371b4854a989bb104df47e9a8e8
   - Chat bot to find information about specialists and clinics in Montenegro. https://t.me/MontenegroDoctorsBot
   - Channel with Events https://t.me/montenegro_it_events
   - Job Channel https://t.me/montenegro_it_job
